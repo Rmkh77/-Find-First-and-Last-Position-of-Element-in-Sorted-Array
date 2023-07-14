@@ -28,3 +28,4 @@ class Solution {
         }
     }
 }
+// returning an array where first number is first occurrence and next is last occurrence
